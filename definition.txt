@@ -1,0 +1,88 @@
+la difference entre git et githup
+
+
+
+Pour résumer la différence entre git et GitHub : 
+git est un logiciel VCS local qui permet aux développeurs de 
+sauvegarder des instantanés de leurs projets au fil du temps. ...
+ GitHub est une plateforme web qui intègre les fonctionnalités
+ de contrôle de version de git afin de pouvoir les utiliser 
+en collaboration.
+
+
+
+it est le système de contrôle de version distribué.
+ Git est chargé de suivre les modifications apportées
+ au contenu – généralement des fichiers de code source.
+
+GitHub est une entreprise qui fournit un hébergement
+ de référentiel Git. Cela signifie qu’ils fournissent
+ une solution clé en main pour héberger des référentiels Git sur leurs serveurs
+
+
+
+En programmation orientée objet (POO), une méthode est une routine membre d'une classe. 
+Une méthode peut être: une méthode d'instance, n'agissant que sur un seul objet
+ (instance de la classe) à la fois; 
+une méthode statique ou méthode de classe, 
+indépendante de toute instance de la classe (objet).
+
+
+
+
+Une fonction désigne en programmation un « sous-programme » 
+permettant d'effectuer des opérations répétitives. Au lieu 
+d'écrire le code complet autant de fois que nécessaire, on crée une
+ fonction que l'on appellera pour l'exécuter
+, ce qui peut aussi alléger le code, le rendre plus lisible.
+
+
+
+Une classe est un modèle de définition pour des objets ayant
+ le même ensemble d'attributs, et le même ensemble d'opérations.
+ A partir d'une classe on peut créer un ou plusieurs objets par instanciation ; 
+chaque objet est une instance d'une seule classe. ...
+ Héritage : on peut définir une classe à partir d'une autre classe.
+
+
+
+
+Un objet est une instance d'une classe, qui est l'outil fondamental de
+ programmation en Java. Une classe peut aussi être considérée comme une
+ description de ce qu'il faut faire pour créer un objet. Les classes sont composées de méthodes 
+et d'attributs qui peuvent être public, private ou protected.
+
+
+            GIT FORMATION 
+
+
+git est un versioning 
+est un logiciel VCS local qui permet aux développeurs de 
+sauvegarder des instantanés de leurs projets au fil du temps. ...
+
+pour installer git il faut aller dans le site :git-scm.com
+
+*La commande git commit sert à enregistrer dans le dépôt les modifications apportées.
+
+*Git contient un outil appelé git config pour vous permettre de voir et 
+modifier les variables de configuration qui
+ contrôlent tous les aspects de l'apparence et du comportement de Git.
+
+
+*La commande git add accepte en paramètre un chemin qui correspond à un fichier ou un répertoire ;
+ dans le cas d'un répertoire, la commande ajoute récursivement tous les fichiers de ce répertoire.
+
+
+
+*La commande git status affiche l'état du répertoire de travail et de la zone de staging.
+ Elle vous permet de voir les changements qui ont été stagés, ceux qui ne l'ont pas été, 
+ainsi que les fichiers qui sont suivis par Git.
+ La sortie de l'état n'affichera pas les informations sur l'historique du projet commité.
+
+
+
+
+*Les commandes Git log et status sont les deux commandes que j'utilise 
+le plus pour analyser mon travail en cours et passé. Le log est 
+un moyen précieux de resituer un contexte de travail
+ (à condition bien sûr que vos messages de commits soient utiles).18 juin 2019
